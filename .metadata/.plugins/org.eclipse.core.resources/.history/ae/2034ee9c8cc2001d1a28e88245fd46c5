@@ -1,0 +1,36 @@
+package Clase_05;
+
+import java.awt.BorderLayout;
+import java.awt.Font;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
+
+public class VentanaListado extends JFrame{
+	private JPanel pSur;
+	private JButton btnVolver;
+	private JTextArea txtArea;
+	private JFrame ventanaActual, ventanaAnterior;
+	public VentanaListado(JFrame va) {
+		super();
+		ventanaActual = this;
+		ventanaAnterior = va;
+		
+		setBounds(200, 300, 600, 400);
+		pSur = new JPanel();
+		btnVolver = new JButton("VOLVER");
+		
+		txtArea = new JTextArea();
+		txtArea.setEditable(false);
+		txtArea.setFont(new Font(Font.SANS_SERIF, Font.BOLD, 14));
+		for(Persona p: Academia.getaPersona()) {
+			txtArea.append(p.toString() + "\n");
+		}
+		
+		getContentPane().add(txtArea, BorderLayout.CENTER);
+		
+		setVisible(true);
+	}
+}

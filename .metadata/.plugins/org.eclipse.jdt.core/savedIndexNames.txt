@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\zJson\Desktop\Universidad\1yr\SegundoSemestre\Programación\ud-java\.metadata\.plugins\org.eclipse.jdt.core
+1324815754.index
+1865797976.index
+449384428.index
+800063857.index
+1080156631.index
+3959137331.index
+4256539736.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Java-2023/src/tema2.basicos.ejemplos&apos;&#x0D;&#x0A;- Original project: &apos;Clase2023&apos;&#x0D;&#x0A;- Destination element: &apos;Java-2023/src/tema2.basicos.ejemplos&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     planet.png&#x0D;&#x0A;     bubble.png&#x0D;&#x0A;     earth.png" description="Copy files" destination="=Java-2023/src&lt;tema2.basicos.ejemplos" element1="src/tema2/basicos/ejemplo/planet.png" element2="src/tema2/basicos/ejemplo/bubble.png" element3="src/tema2/basicos/ejemplo/earth.png" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1678346879532" units="0" version="1.0"/>
+</session>

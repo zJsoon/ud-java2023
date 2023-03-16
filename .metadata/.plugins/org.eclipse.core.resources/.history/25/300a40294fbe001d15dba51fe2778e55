@@ -1,0 +1,12 @@
+package tema2.basicos.ejemplos;
+
+public class TestHerencia extends Esfer{
+	public static void main(String[] args) {
+		prueba();
+	}
+	
+	public static void prueba() {
+		Esfera e1 = new Esfera(100,150,501);
+		System.out.println(e1.toString());
+	}
+}

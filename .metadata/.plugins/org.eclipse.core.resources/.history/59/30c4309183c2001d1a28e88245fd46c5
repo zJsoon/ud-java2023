@@ -1,0 +1,11 @@
+package Clase_05;
+
+public class Persona {
+	private String nombre;
+	private String edad;
+	public Persona() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+}

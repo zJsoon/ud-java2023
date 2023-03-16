@@ -1,0 +1,10 @@
+package Clase_05;
+
+import java.util.ArrayList;
+/*
+ * 
+ */
+public class Academia {
+	private static ArrayList<Persona> aPersona = new ArrayList<>(); /*ATRIBUTO DE CLASE*/
+	
+}

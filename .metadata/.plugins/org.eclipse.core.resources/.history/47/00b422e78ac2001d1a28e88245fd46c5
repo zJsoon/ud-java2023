@@ -1,0 +1,26 @@
+package Clase_05;
+
+import java.awt.BorderLayout;
+
+import javax.swing.JFrame;
+import javax.swing.JTextArea;
+
+public class VentanaListado extends JFrame{
+	private JTextArea txtArea;
+	
+	public VentanaListado() {
+		super();
+		setBounds(200, 300, 600, 400);
+		
+		txtArea = new JTextArea();
+		txtArea.setEditable(false);
+		
+		for(Persona p: Academia.getaPersona()) {
+			txtAre
+		}
+		
+		getContentPane().add(txtArea, BorderLayout.CENTER);
+		
+		setVisible(true);
+	}
+}

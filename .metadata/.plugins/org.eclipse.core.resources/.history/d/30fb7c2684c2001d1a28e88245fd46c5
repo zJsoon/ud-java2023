@@ -1,0 +1,8 @@
+package Clase_05;
+
+import java.util.ArrayList;
+
+public class Contenedora {
+	private static ArrayList<Persona> aPersona = new ArrayList<>();
+	
+}

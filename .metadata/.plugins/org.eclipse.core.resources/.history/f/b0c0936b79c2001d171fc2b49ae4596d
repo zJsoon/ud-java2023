@@ -1,0 +1,7 @@
+package tema2.resueltos.ej2a7.previo;
+
+import java.util.Random;
+
+public class Figura {
+	protected static final Random random = new Random();
+}

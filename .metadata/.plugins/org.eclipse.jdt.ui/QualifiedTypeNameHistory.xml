@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="tema1.basicos.PruebasVentanaGrafica"/>
+    <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="tema1.ejercicio13.Circulo"/>
+    <fullyQualifiedTypeName name="Clase_03.Profesor"/>
+    <fullyQualifiedTypeName name="Clase_03.figuras.Triangulo"/>
+    <fullyQualifiedTypeName name="Clase_03.figuras.Cuadrado"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="tema1.ejercicio13.GrupoCirculos"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="javax.swing.JPasswordField"/>
+    <fullyQualifiedTypeName name="Clase_04.Cliente"/>
+    <fullyQualifiedTypeName name="Clase_04.VentanaLogged"/>
+    <fullyQualifiedTypeName name="window.logged.WindowLogged"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="utils.ventanas.ventanaBitmap.VentanaGrafica"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="Clase_05.Persona"/>
+    <fullyQualifiedTypeName name="Clase_05.Academia"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+</qualifiedTypeNameHistroy>
